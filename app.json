@@ -1,0 +1,15 @@
+{
+  "name": "Crashlytics Idobata Bridge",
+  "description": "Receive Crashlytics WebHook and re-post to idobata.io",
+  "keywords": [
+    "productivity"
+  ],
+  "website": "https://github.com/edvakf/crashlytics_idobata_bridge",
+  "repository": "https://github.com/edvakf/crashlytics_idobata_bridge",
+  "env": {
+    "IDOBATA_GENERIC_HOOK_URL": {
+      "description": "Please add a Generic Hook to an idobata room and put the URL here (ex. https://idobata.io/hook/generic/xxxxxxxx)",
+      "required": true
+    }
+  }
+}
