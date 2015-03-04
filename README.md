@@ -1,3 +1,9 @@
+# YOU DON'T NEED THIS BRIDGE ANY MORE!
+
+Crashlytics hook is now a part of idobata's supported Web Hooks.
+
+---
+
 # Crashlytics Idobata Bridge
 
 Receive Crashlytics WebHook and re-post to idobata.io
